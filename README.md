@@ -1,5 +1,5 @@
 # Romankorpus_dt
-Deutschsprachiges Romankorpus (1750 bis 1820) / Collection of Eighteenth and Nineteenth Century Novels (1750-1820)
+Deutschsprachiges Romankorpus (1750 bis 1820) / Collection of Eighteenth and Nineteenth Century German Novels (1750-1820)
 # Introduction/Einführung
 Das vorliegende Korpus umfasst digitalisierte, deutschsprachige Romane des 18. und 19. Jahrhundert, die im Zeitraum zwischen 1750 und 1820 entstanden sind oder erstmalig veröffentlicht wurden. Das Korpus wird im Kontext des Projekts Mining and Modeling Text (MiMoText) des Trier Center for Digital Humanities (TCDH) an der Universität Trier erstellt. Es befindet sich noch im Aufbau.
 
