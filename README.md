@@ -5,6 +5,6 @@ Das vorliegende Korpus umfasst digitalisierte, deutschsprachige Romane des 18. u
 
 This collection of Eighteenth and Nineteenth-Century German Novels contains digital texts created or first published between 1750 and 1820. The corpus is part of Mining and Modeling Text (MiMoText), a project wich is located at the Trier Center for Digital Humanities at University Trier. The corpus is under development.
 # Korpuszusammenstellung/Corpus building
-Die Texte des vorliegenden Korpus bauen auf bereits bestehenden online verfügbaren Digitalisaten auf. Dazu wurde auf die Bestände der Online-Datenbanken von figshare, des Deutschen Textarchivs (dta), des Müncher Digitalisierungszentrums (MDZ) und des TextGrid Repository zurückgegriffen. So konnten (Stand jetzt) 92 Romane in 160 Bänden zusammengetragen werden.
+Die Texte des vorliegenden Korpus bauen auf bereits bestehenden online verfügbaren Digitalisaten auf. Dazu wurde auf die Bestände der Online-Datenbanken von figshare, des Deutschen Textarchivs (dta), des Müncher Digitalisierungszentrums (MDZ) und des TextGrid Repository zurückgegriffen. So konnten (Stand jetzt) 109 Romane in 170 Bänden zusammengetragen werden.
 
-The texts of the present corpus build on existing online digital copies. For this purpose, the holdings of the online databases of figshare, Deutsches Textarchiv (dta), Münchner Digitalisierungszentrum (MDZ) and TextGrid Repository were used. So far, 92 novels in 160 volumes have been collected.
+The texts of the present corpus build on existing online digital copies. For this purpose, the holdings of the online databases of figshare, Deutsches Textarchiv (dta), Münchner Digitalisierungszentrum (MDZ) and TextGrid Repository were used. So far, 109 novels in 170 volumes have been collected.
